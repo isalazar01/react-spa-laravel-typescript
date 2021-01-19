@@ -15,3 +15,4 @@ The application is completely developed in Typescript using the Create React App
 - API level tests written to ensure maximum test coverage of code.
 - Enzyme based tests written to ensure maximum test coverage for React Components.
 - Have added Git actions and workflow to ensure tests are executed on each code push and run PHP Unit and Javascript tests cases.
+
